@@ -10,6 +10,7 @@ var
     BC_t                ${BC_t}$                (long_name='Balanza comercial')
     B_gt                ${B_gt}$                (long_name='Oferta de bonos domésticos del gobierno')
     B_pt                ${B_pt}$                (long_name='Demanda de bonos del gobierno del sector privado')
+  // Explicación
 //Revisar B_t_o y CC_t
     B_t_o               ${B_t_o}$               (long_name='Demanda de bonos domésticos de la familia Ricardiana')
     CC_t                ${CC_t}$                (long_name='Cuenta corriente*')
